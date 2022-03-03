@@ -4,7 +4,7 @@ I showed how to create database model Post, update it with Admin panel and then 
 the Admin Panel on the Web Page: https://immense-meadow-12420.herokuapp.com/.
 
 
-Deployment and launching to Heroku:
+#Deployment and launching to Heroku:
 Logging in... done
 Logged in as krzysztofkozak833@gmail.com
 PS C:\Django\mb> heroku create
