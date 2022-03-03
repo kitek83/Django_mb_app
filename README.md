@@ -1,7 +1,7 @@
 #Django_mb_app.
 In this repository I built, tested, and deployed first database-driven app(Django_mb_app).
-I showed how to create databse model Post, update it wich Admin paneln and then display the content from
-the Admin Panem on the Web Page: https://immense-meadow-12420.herokuapp.com/.
+I showed how to create database model Post, update it with Admin panel and then display the content from
+the Admin Panel on the Web Page: https://immense-meadow-12420.herokuapp.com/.
 
 
 Deployment and launching to Heroku:
